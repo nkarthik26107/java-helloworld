@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! Simple Devops Project 1 CI CD</h2>
+<h2>Hello World! Simple Devops Project 2 CI CD with Ansible Deployement</h2>
 </body>
 </html>
